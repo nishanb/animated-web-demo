@@ -1,0 +1,81 @@
+body{
+    margin-top: 70px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: Poppins, serif;
+}
+
+p{
+    font-family: Roboto, serif;
+}
+.navbar{
+    background: #fff;
+    border: 0;
+    font-family: Poppins, sans-serif;
+}
+
+.navbar-brand{
+    color:#000000!important;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#contact{
+    background: url("../img/image3.png");
+    padding: 40px;
+    color: white;
+    border-top: #333 5px solid;
+    border-bottom: #333 5px solid;
+}
+
+#info2{
+    margin: 20px 0 60px 0;
+}
+
+#info1 .info-right{
+    margin-top: 70px;
+}
+
+#info1 img{
+    width: 80%;
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding: 50px 0px 30px 0px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#testimonial p{
+    font-size: 22px;
+    color: #000000;
+    font-family: 'Josefin sans', serif;
+}
+
+#testimonial p.customer{
+    font-size: 12px;
+    color:#666;
+}
+
+
+#showcase h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#showcase img{
+    width: 70%;
+    margin-left: 40px;
+}
+
+#showcase .showcase-right{
+    margin-top: 10px;
+}
+
+footer{
+    padding: 20px 20px 0 20px;
+}
+
+
